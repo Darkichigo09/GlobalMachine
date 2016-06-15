@@ -540,7 +540,7 @@ namespace GlobalMachine
                         }
                     case 6:
                         {
-                            //Venta similar a tarea1
+                          venta_productos();
                             break;
                         }
                     case 7:
